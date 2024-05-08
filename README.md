@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="border-radius:50%;object-fit: cover; object-position:top;" height="150" width="150" src="perfilfoto.png"  />
+  <img  height="150" width="150" src="perfilgithub.png"  />
 </div>
 
 ###
